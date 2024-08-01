@@ -1,0 +1,10 @@
+2024/07/18 22:08:22 Outputs (e.g., checkpoints) are saved at:   outputs\efficientdet_d3\full_config
+2024/07/18 22:08:22 Messages and tensorboard logs are saved at: logs\efficientdet_d3\full_config\train_20240718_22_08_22
+2024/07/18 22:08:22 Random seed: 2021
+2024/07/18 22:08:22 Creating SPNv2 ...
+2024/07/18 22:08:23    - Backbone: efficientdet_d3 (# param: 12,006,840)
+2024/07/18 22:08:23    - Backbone: efficientdet_d3 (# param: 12,006,840)
+2024/07/18 22:08:23    - Head #1: heatmap (# param: 256,954)
+2024/07/18 22:08:23    - Head #2: efficientpose (# param: 698,216)
+2024/07/18 22:08:23    - Head #3: segmentation (# param: 250,529)
+2024/07/18 22:08:23    - GroupNorm built for prediction heads

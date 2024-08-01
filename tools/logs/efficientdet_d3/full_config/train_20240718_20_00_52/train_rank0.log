@@ -1,0 +1,6 @@
+2024/07/18 20:00:52 Outputs (e.g., checkpoints) are saved at:   outputs\efficientdet_d3\full_config
+2024/07/18 20:00:52 Messages and tensorboard logs are saved at: logs\efficientdet_d3\full_config\train_20240718_20_00_52
+2024/07/18 20:00:52 Random seed: 2021
+2024/07/18 20:00:52 Creating SPNv2 ...
+2024/07/18 20:00:53    - Backbone: efficientdet_d3 (# param: 12,006,840)
+2024/07/18 20:00:53    - Backbone: efficientdet_d3 (# param: 12,006,840)

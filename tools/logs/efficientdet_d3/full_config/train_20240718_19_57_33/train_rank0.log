@@ -1,0 +1,4 @@
+2024/07/18 19:57:33 Outputs (e.g., checkpoints) are saved at:   outputs\efficientdet_d3\full_config
+2024/07/18 19:57:33 Messages and tensorboard logs are saved at: logs\efficientdet_d3\full_config\train_20240718_19_57_33
+2024/07/18 19:57:33 Random seed: 2021
+2024/07/18 19:57:33 Creating SPNv2 ...
